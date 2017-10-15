@@ -1,0 +1,5 @@
+*.xz
+*.tar
+src/
+pkg/
+scansnap-firmware-git/
